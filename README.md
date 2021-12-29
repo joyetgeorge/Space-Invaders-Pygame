@@ -1,5 +1,5 @@
 
-# Space Invaders - Pygame
+# Space Invaders - Pygame 
 
 This is a basic functioning version of the arcade game Space Invaders build using Pyton and Pygame.
 
@@ -20,4 +20,5 @@ Run the game
 ## Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/joyetgeorge/Space-Invaders-Pygame/main/Screenshot.png)
+
 
